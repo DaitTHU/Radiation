@@ -1,0 +1,75 @@
+1: Hydrogen
+2: Helium
+4: Beryllium
+6: Carbon, Amorphous (density2.0g/cm3)
+6: Graphite (density 1.7 g/cm3)
+7: Nitrogen
+8: Oxygen
+10: Neon
+11: Sodium
+13: Aluminum
+14: Silicon
+18: Argon
+22: Titanium
+26: Iron
+29: Copper
+32: Germanium
+36: Krypton
+42: Molybdenum
+47: Silver
+50: Tin
+54: Xenon
+64: Gadolinium
+74: Tungsten
+78: Platinum
+79: Gold
+82: Lead
+92: Uranium
+A-150 Tissue-Equivalent Plastic
+Acetylene
+Adipose Tissue (ICRP)
+Air, Dry (near sea level)
+Aluminum Oxide
+B-100 Bone-Equivalent Plastic
+Bone, Compact (ICRU)
+Bone, Cortical (ICRP)
+C-552 Air-Equivalent Plastic
+Calcium Fluoride
+Carbon Dioxide
+Cellulose Nitrate
+Ceric Sulfate Dosimeter Solution
+Cesium Iodide
+Ethylene
+Ferrous Sulfate Dosimeter Solution
+Glass, Pyrex
+Kapton Polyimide Film
+Lithium Fluoride
+Lithium Tetraborate
+M3 Wax
+Methane
+MS20 Tissue Substitute
+Muscle, Skeletal
+Muscle, Striated
+Muscle-Equivalent Liquid, with Sucrose
+Muscle-Equivalent Liquid, without Sucrose
+Nylon, type 6 and type 6/6
+Paraffin Wax
+Photographic Emulsion
+Plastic Scintillator (Vinyltoluene based)
+Polycarbonate (Makrolon, Lexan)
+Polyethylene
+Polyethylene Terephthalate (Mylar)
+Polymethyl Methacralate (Lucite, Perspex)
+Polypropylene
+Polystyrene
+Polytetrafluoroethylene (Teflon�)
+Polyvinyl Chloride
+Propane
+Silicon Dioxide
+Sodium Iodide
+Stilbene
+Tissue-Equivalent GAS (Methane based)
+Tissue-Equivalent GAS (Propane based)
+Toluene
+Water, Liquid
+Water Vapor
