@@ -2,7 +2,7 @@
 
 > 这是个 Markdown 文件，建议用 Typora 或 VSCode 打开
 >
-> 代码已上传 GitHub：https://github.com/DaitTHU，点个 star 喵谢谢喵。
+> 代码已上传 GitHub：https://github.com/DaitTHU 点个 star 喵谢谢喵。
 
 我们设计了一个可用于辐射防护及其他核物理学科的模块包。可以很大的方便解决辐射防护学科的相关问题以及数据查询。
 
